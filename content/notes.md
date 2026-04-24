@@ -1,5 +1,13 @@
 # Rain Walk Notes
 
+## Friday
+
+### Food
+Spicy tuna and espresso.
+
+### Tools
+Setting up GitHub and Streamlit.
+
 ## Saturday
 A slow walk near the station. Wet pavement, soft grey light, and a quiet coffee before opening GitHub.
 
