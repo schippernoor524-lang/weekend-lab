@@ -8,6 +8,8 @@ st.set_page_config(
     layout="wide",
 )
 
+st.caption("Build marker: 2026-04-24 001")
+
 ROOT = Path(__file__).parent
 NOTES_FILE = ROOT / "content" / "notes.md"
 ASSETS_DIR = ROOT / "assets"
