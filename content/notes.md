@@ -1,7 +1,7 @@
 # Rain Walk Notes
 
 ## Friday
-test
+Cats love baths so much that the mere sound of running water sends them sprinting away—clearly overwhelmed by their own excitement.
 
 ### Food
 Spicy tuna and espresso.
